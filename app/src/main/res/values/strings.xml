@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="connect_to_internet">Connect to Internet</string>
+    <string name="you_are_offline">You are offline. Please check your connection</string>
+    <string name="swipe_to_refresh">Swipe down to Refresh</string>
+    <string name="app_desc">{ connect with programmer who can help you… };</string>
+    <string name="connecting">Connecting to Internet</string>
+    <string name="search_floating_button">search floating button</string>
+    <string name="sample_user_name">M Huda Anshory</string>
+    <string name="sample_user_github_link">github.com/mhuda-anshory</string>
+</resources>
